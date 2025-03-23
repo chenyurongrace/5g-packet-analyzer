@@ -1,8 +1,12 @@
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Version](https://img.shields.io/badge/Version-v1.0-orange.svg)
 
 # 5G Packet Analyzer
 
 A lightweight Python-based tool to simulate, capture, and analyze 5G-style network traffic using Flask, Scapy, and tshark.
+
+📌 **Current Version:** `v1.0` ・ 🛠️ Grace Chen ・ 🌐 [GitHub](https://github.com/chenyurongrace/5g-packet-analyzer)
 
 ## ✨ Features
 
